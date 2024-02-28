@@ -12,3 +12,10 @@ echo "Deployment in progress..."
 sleep 10
 echo "Deployment to environment [${target_environmenbt}] completed successfully"
 
+#!/bin/bash
+
+# Simulate deployment process
+echo "Simulating deployment..."
+# Aquí puedes agregar cualquier lógica de simulación de implementación que desees
+echo "Deployment simulation complete."
+

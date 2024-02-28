@@ -5,7 +5,7 @@
     "build": "next build",
     "start": "next start",
     "test:unit": "jest --ci",
-    "deploy:simulate": "./scripts/simulate/deployment",
+    "deploy:simulate": "./scripts/simulate/deployment"
 
   },
 
