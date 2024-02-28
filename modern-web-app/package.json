@@ -4,8 +4,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test:unit": "jest --ci"
+    "test:unit": "jest --ci",
+    "deploy:simulate": "./scripts/simulate/deployment",
+
   },
+
   "dependencies": {
     "next": "latest",
     "react": "^18.1.0",
